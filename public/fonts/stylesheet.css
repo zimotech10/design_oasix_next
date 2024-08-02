@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-4G.eot');
+    src: local('Euclid Galactic 4G'), local('EuclidGalactic-4G'),
+        url('EuclidGalactic-4G.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-4G.woff2') format('woff2'),
+        url('EuclidGalactic-4G.woff') format('woff'),
+        url('EuclidGalactic-4G.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-3G.eot');
+    src: local('Euclid Galactic 3G'), local('EuclidGalactic-3G'),
+        url('EuclidGalactic-3G.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-3G.woff2') format('woff2'),
+        url('EuclidGalactic-3G.woff') format('woff'),
+        url('EuclidGalactic-3G.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-3GIt.eot');
+    src: local('Euclid Galactic 3G Italic'), local('EuclidGalactic-3GIt'),
+        url('EuclidGalactic-3GIt.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-3GIt.woff2') format('woff2'),
+        url('EuclidGalactic-3GIt.woff') format('woff'),
+        url('EuclidGalactic-3GIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-4GIt.eot');
+    src: local('Euclid Galactic 4G Italic'), local('EuclidGalactic-4GIt'),
+        url('EuclidGalactic-4GIt.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-4GIt.woff2') format('woff2'),
+        url('EuclidGalactic-4GIt.woff') format('woff'),
+        url('EuclidGalactic-4GIt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-2G.eot');
+    src: local('Euclid Galactic 2G'), local('EuclidGalactic-2G'),
+        url('EuclidGalactic-2G.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-2G.woff2') format('woff2'),
+        url('EuclidGalactic-2G.woff') format('woff'),
+        url('EuclidGalactic-2G.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-5G.eot');
+    src: local('Euclid Galactic 5G'), local('EuclidGalactic-5G'),
+        url('EuclidGalactic-5G.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-5G.woff2') format('woff2'),
+        url('EuclidGalactic-5G.woff') format('woff'),
+        url('EuclidGalactic-5G.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-1G.eot');
+    src: local('Euclid Galactic 1G'), local('EuclidGalactic-1G'),
+        url('EuclidGalactic-1G.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-1G.woff2') format('woff2'),
+        url('EuclidGalactic-1G.woff') format('woff'),
+        url('EuclidGalactic-1G.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-2GIt.eot');
+    src: local('Euclid Galactic 2G Italic'), local('EuclidGalactic-2GIt'),
+        url('EuclidGalactic-2GIt.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-2GIt.woff2') format('woff2'),
+        url('EuclidGalactic-2GIt.woff') format('woff'),
+        url('EuclidGalactic-2GIt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-1GIt.eot');
+    src: local('Euclid Galactic 1G Italic'), local('EuclidGalactic-1GIt'),
+        url('EuclidGalactic-1GIt.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-1GIt.woff2') format('woff2'),
+        url('EuclidGalactic-1GIt.woff') format('woff'),
+        url('EuclidGalactic-1GIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Galactic';
+    src: url('EuclidGalactic-5GIt.eot');
+    src: local('Euclid Galactic 5G Italic'), local('EuclidGalactic-5GIt'),
+        url('EuclidGalactic-5GIt.eot?#iefix') format('embedded-opentype'),
+        url('EuclidGalactic-5GIt.woff2') format('woff2'),
+        url('EuclidGalactic-5GIt.woff') format('woff'),
+        url('EuclidGalactic-5GIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
